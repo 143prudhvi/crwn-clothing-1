@@ -1,3 +1,17 @@
+# Firebase config
+
+const firebaseConfig = {
+  apiKey: "AIzaSyBEdB7NAxyENto7UVV3XgGMC6E9N2zwPJs",
+  authDomain: "crwn-clothing-38b5b.firebaseapp.com",
+  projectId: "crwn-clothing-38b5b",
+  storageBucket: "crwn-clothing-38b5b.appspot.com",
+  messagingSenderId: "829178915348",
+  appId: "1:829178915348:web:5d2b2169e0d769ab78d501",
+  measurementId: "G-Y8D73M54FX"
+};
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
